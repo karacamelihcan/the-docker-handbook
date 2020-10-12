@@ -30,7 +30,7 @@ Her ne kadar fazlasıyla talep görse de, Docker'a yeni başlamak biraz korkutuc
 -   [Docker'da Hello World](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/04.Docker'da%20Merhaba%20D%C3%BCnya.md)
     -   [Docker Mimarisi](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/05.Docker%20Mimarisi.md)
     -   [Görüntüler ve Konteynerler](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/06.G%C3%B6r%C3%BCnt%C3%BCler%20ve%20Konteynerler.md)
-    -   [Kayıtlar](https://www.freecodecamp.org/news/the-docker-handbook/#registries)
+    -   [Kayıtlar](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/07.Kay%C4%B1tlar.md)
     -   [Bütün Resim](https://www.freecodecamp.org/news/the-docker-handbook/#the-full-picture)
 -   [Konteyner Manipülasyonu](https://www.freecodecamp.org/news/the-docker-handbook/#manipulating-containers)
     -   [Konteynerleri Çalıştırma](https://www.freecodecamp.org/news/the-docker-handbook/#running-containers)
