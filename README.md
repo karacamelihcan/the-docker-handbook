@@ -25,7 +25,7 @@ Her ne kadar fazlasıyla talep görse de, Docker'a yeni başlamak biraz korkutuc
 
 ### Kitabın İçeriği
 -   [Konteynerleştirme ve Docker 'a Giriş](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/01.Konteynerle%C5%9Ftirme%20ve%20Docker'a%20Giri%C5%9F.md)
-    -   [Sanal Makineler vs Konteynerler](https://www.freecodecamp.org/news/the-docker-handbook/#virtual-machines-vs-containers)
+    -   [Sanal Makineler vs Konteynerler](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/02.Sanal%20Makineler%20vs%20Konteynerler.md)
 -   [Docker'ı Yükleme](https://www.freecodecamp.org/news/the-docker-handbook/#installing-docker)
 -   [Docker'da Hello World](https://www.freecodecamp.org/news/the-docker-handbook/#hello-world-in-docker)
     -   [Docker Mimarisi](https://www.freecodecamp.org/news/the-docker-handbook/#docker-architecture)
