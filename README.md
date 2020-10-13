@@ -33,7 +33,7 @@ Her ne kadar fazlasıyla talep görse de, Docker'a yeni başlamak biraz korkutuc
     -   [Kayıtlar](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/07.Kay%C4%B1tlar.md)
     -   [Bütün Resim](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/08.B%C3%BCt%C3%BCn%20Resim.md)
 -   [Konteyner Manipülasyonu](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/09.Konteyner%20Manip%C3%BClasyonu.md)
-    -   [Konteynerleri Çalıştırma](https://www.freecodecamp.org/news/the-docker-handbook/#running-containers)
+    -   [Konteynerleri Çalıştırma](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/10.Konteynerleri%20%C3%87al%C4%B1%C5%9Ft%C4%B1rmak.md)
     -   [Konteynerleri Listeleme](https://www.freecodecamp.org/news/the-docker-handbook/#listing-containers)
     -   [Konteynerleri Yeniden Başlatma](https://www.freecodecamp.org/news/the-docker-handbook/#restarting-containers)
     -   [Sarkan Konteynerleri Çalıştırma](https://www.freecodecamp.org/news/the-docker-handbook/#cleaning-up-dangling-containers)
