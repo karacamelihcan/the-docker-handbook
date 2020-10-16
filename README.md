@@ -37,7 +37,7 @@ Her ne kadar fazlasıyla talep görse de, Docker'a yeni başlamak biraz korkutuc
     -   [Konteynerleri Listeleme](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/11.Konteynerleri%20Listeleme.md)
     -   [Konteynerleri Yeniden Başlatma](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/12.Konteynerleri%20Yeniden%20Ba%C5%9Flatma.md)
     -   [Sarkan Konteynerleri Temizleme](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/13.Sarkan%20Konteynerleri%20Temizleme.md)
-    -   [Etkileşimli Modda Konteynerleri Çalıştırma](https://www.freecodecamp.org/news/the-docker-handbook/#running-containers-in-interactive-mode)
+    -   [Etkileşimli Modda Konteynerleri Çalıştırma](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/14.Etkile%C5%9Fimli%20Modda%20Konteynerleri%20%C3%87al%C4%B1%C5%9Ft%C4%B1rma.md)
     -   [Çalıştırılabilir Görüntüleri Kullanarak Konteynerleri Oluşturma](https://www.freecodecamp.org/news/the-docker-handbook/#creating-containers-using-executable-images)
     -   [Ayrılmış Modda Konteynerleri Çalıştırma](https://www.freecodecamp.org/news/the-docker-handbook/#running-containers-in-detached-mode)
     -   [Çalışan Bir Konteyner içinde Komutları Çalıştırma](https://www.freecodecamp.org/news/the-docker-handbook/#executing-commands-inside-a-running-container)
