@@ -38,7 +38,7 @@ Her ne kadar fazlasıyla talep görse de, Docker'a yeni başlamak biraz korkutuc
     -   [Konteynerleri Yeniden Başlatma](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/12.Konteynerleri%20Yeniden%20Ba%C5%9Flatma.md)
     -   [Sarkan Konteynerleri Temizleme](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/13.Sarkan%20Konteynerleri%20Temizleme.md)
     -   [Etkileşimli Modda Konteynerleri Çalıştırma](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/14.Etkile%C5%9Fimli%20Modda%20Konteynerleri%20%C3%87al%C4%B1%C5%9Ft%C4%B1rma.md)
-    -   [Çalıştırılabilir Görüntüleri Kullanarak Konteynerleri Oluşturma](https://www.freecodecamp.org/news/the-docker-handbook/#creating-containers-using-executable-images)
+    -   [Çalıştırılabilir Görüntüleri Kullanarak Konteynerleri Oluşturma](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/15.%C3%87al%C4%B1%C5%9Ft%C4%B1r%C4%B1labilir%20G%C3%B6r%C3%BCnt%C3%BCleri%20Kullanarak%20Konteynerleri%20Olu%C5%9Fturma.md)
     -   [Ayrılmış Modda Konteynerleri Çalıştırma](https://www.freecodecamp.org/news/the-docker-handbook/#running-containers-in-detached-mode)
     -   [Çalışan Bir Konteyner içinde Komutları Çalıştırma](https://www.freecodecamp.org/news/the-docker-handbook/#executing-commands-inside-a-running-container)
     -   [Çalışan Bir Konteyner içinde Kabuğu Başlatma](https://www.freecodecamp.org/news/the-docker-handbook/#starting-shell-inside-a-running-container)
