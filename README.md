@@ -40,7 +40,7 @@ Her ne kadar fazlasıyla talep görse de, Docker'a yeni başlamak biraz korkutuc
     -   [Etkileşimli Modda Konteynerleri Çalıştırma](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/14.Etkile%C5%9Fimli%20Modda%20Konteynerleri%20%C3%87al%C4%B1%C5%9Ft%C4%B1rma.md)
     -   [Çalıştırılabilir Görüntüleri Kullanarak Konteynerleri Oluşturma](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/15.%C3%87al%C4%B1%C5%9Ft%C4%B1r%C4%B1labilir%20G%C3%B6r%C3%BCnt%C3%BCleri%20Kullanarak%20Konteynerleri%20Olu%C5%9Fturma.md)
     -   [Detached Modda Konteynerleri Çalıştırma](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/16.Detached%20Modda%20Konteynerleri%20%C3%87al%C4%B1%C5%9Ft%C4%B1rma.md)
-    -   [Çalışan Bir Konteyner içinde Komutları Çalıştırma](https://www.freecodecamp.org/news/the-docker-handbook/#executing-commands-inside-a-running-container)
+    -   [Çalışan Bir Konteyner içinde Komutları Çalıştırma](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/17.%C3%87al%C4%B1%C5%9Fan%20Bir%20Konteyner%20i%C3%A7inde%20Komutlar%C4%B1%20%C3%87al%C4%B1%C5%9Ft%C4%B1rma.md)
     -   [Çalışan Bir Konteyner içinde Kabuğu Başlatma](https://www.freecodecamp.org/news/the-docker-handbook/#starting-shell-inside-a-running-container)
     -   [Çalışan Bir Konteyner'den Loglara Erişmek](https://www.freecodecamp.org/news/the-docker-handbook/#accessing-logs-from-a-running-container)
     -   [Çalışan Bir Konteyner'i Durdurma yada Öldürme](https://www.freecodecamp.org/news/the-docker-handbook/#stopping-or-killing-a-running-container)
