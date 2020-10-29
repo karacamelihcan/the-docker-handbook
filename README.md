@@ -45,7 +45,7 @@ Her ne kadar fazlasıyla talep görse de, Docker'a yeni başlamak biraz korkutuc
     -   [Çalışan Bir Konteyner'den Loglara Erişmek](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/19.%C3%87al%C4%B1%C5%9Fan%20Bir%20Konteynerden%20Loglara%20Eri%C5%9Fmek.md)
     -   [Çalışan Bir Konteyner'i Durdurma yada Öldürme](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/20.%C3%87al%C4%B1%C5%9Fan%20Bir%20Konteyneri%20Durdurma%20yada%20%C3%96ld%C3%BCrme.md)
     -   [Portları Eşleştirme](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/21.Portlar%C4%B1%20E%C5%9Fle%C5%9Ftirme.md)
--   [Konteyner İzolasyonunun Gösterilmesi](https://www.freecodecamp.org/news/the-docker-handbook/#demonstration-of-container-isolation)
+-   [Konteyner İzolasyonunun Gösterilmesi](https://github.com/karacamelihcan/the-docker-handbook/blob/main/Sections/22.Konteyner%20%C4%B0zalasyonunun%20G%C3%B6sterilmesi.md)
 -   [Özel Görüntüler Oluşturma](https://www.freecodecamp.org/news/the-docker-handbook/#creating-custom-images)
     -   [Görüntü Oluşturmanın Temelleri](https://www.freecodecamp.org/news/the-docker-handbook/#image-creation-basics)
     -   [Yürütülebilir Bir Görüntü Oluşturma](https://www.freecodecamp.org/news/the-docker-handbook/#creating-an-executable-image)
